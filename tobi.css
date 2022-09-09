@@ -1,0 +1,284 @@
+*{
+    margin: 0;
+    
+}
+.amb{
+    background: BLACK;
+    height: 109vh;
+    width: 100%;
+    background-position: center;
+    
+}
+
+#a{
+    font-size: 20px;
+    color: orange;
+    margin-left: 30px;
+    padding-top: 20px;
+    text-align: center;
+}
+
+#a span{
+    color: orangered;
+    font-size: 13px;
+
+}
+
+#b{
+    font-family:CURSIVE;
+text-align: center;
+color: white;
+margin-TOP: 20PX;
+font-weight: lighter;
+
+padding-bottom: 50px;
+
+}
+.b{
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+margin-top: 60px;
+color: orange;
+
+margin-left: 60px;
+
+}
+
+.b H2 span{
+    font-size: 15px;
+    color: WHITE;
+}
+
+.b h6{
+    margin-left: 320px;
+    margin-top: -250px;
+}
+
+.c {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: 70px;
+    margin-left: 10px;
+}
+
+.ab{
+    background-image: url(cyber.jpg);
+    width: 100%;
+    background-position: center;
+    background-size: 300%;
+    height: 95vh;
+    border-bottom: white 4px solid;
+}
+.icon h2{
+    color: orangered;
+    padding-top: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-left: 20px;
+}
+
+.content h1{
+    color: white;
+    margin-top: 100px;
+    margin-left: 25px;
+}
+
+.content h1 span{
+    color: orangered;
+    margin-top: 50px;
+    margin-left: px;
+}
+.content p{
+    color: white;
+    margin-top: 45px;
+    margin-left: 20px;
+
+}
+
+.content .cn{
+    margin-top: 60px;
+    text-align: center;
+    align-items: center;
+    background: transparent;
+    margin-left: 160px;
+    border-color: orangered;
+    width: 120px;
+    height: 30px;
+    border-radius: 10px;
+
+
+    
+}
+
+.content .cn a {
+    text-decoration: none;
+    color: white;
+}
+.content .cn:hover {
+background: orangered;
+color: white;
+}
+
+.de{
+    color: lightskyblue;
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+.de span{
+    color: black;}
+
+    .ef{
+        color: black;
+        font-size: 15px;
+        margin-left: 20px;
+        margin-top: 4px;}
+
+       
+        .fg h5{
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            margin-top: 60px;
+            color: lightskyblue;
+            font-size: 25px;
+            
+            margin-left: 20px;
+            
+            }
+            
+            
+            
+            .fg h3{
+                font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+                margin-top: 20px;
+                color: lightskyblue;
+                
+                margin-left: 60px;
+                
+                }
+                
+                .fg H3 span{
+                    font-size: 15px;
+                    color: black;
+                }
+                .img{
+margin-left: 170px;
+border-color: lightskyblue;
+border-radius: 20px;
+                }
+
+                .imgaa{
+                    margin-left: 28px;
+                    border-color: lightskyblue;
+                    border-radius: 50px;
+                    margin-top: 30px;
+                    margin-bottom: 30px;
+                                    }
+
+                .oa{
+                    background-image: url(goal-a.jpg);
+                    width: 100%;
+                    background-position: center;
+                    height: 100vh;
+                }
+                .o{
+                    color: white;
+                    font-size: 60px;
+                   padding-top: 180px;
+                   margin-left: 15px;
+                }
+                .o p{
+                    font-size: 15px;
+                    text-align: center;
+                }
+                .o p span{
+                    font-size: 15px;
+                    color: orangered;
+                }
+                .o span{
+                    color: orangered;
+                    font-size: 60px;
+                }
+                ul {
+                    float: right;
+                    display: flex;
+                    font-size: 15px;
+                    
+                
+                }
+                ul li {
+                    left: 170px;
+                margin-left: 140px;
+                margin-top: 15px;
+                font-size: 11.5px;
+                color: white;
+                cursor: pointer;
+                position: relative;
+                }
+                
+                ul li a{
+                text-decoration: none;
+                color: orangered;
+                font-family: Arial;
+                font-weight: bold;
+                
+                padding-left: -10px;
+                cursor: pointer;
+                }
+                
+                ul li a:hover{
+                color: white;
+                transition: 0.1s ease-in-out;
+                }
+
+                .me{
+                    background-color: white;
+                    width: 100%;
+                   margin-left: 20px;
+                    background-position: center;
+                    height: 109vh;
+                }
+                .me h3{
+                    background-color: black;
+                    width:240px;
+                    color: blanchedalmond;
+                    margin-left: 20px;
+                    margin-top: 20px;
+                    height: 55px;
+                    border-radius: 15px;
+                    text-align: center;
+                }
+                .me{
+                    background-color: white;
+                    width: 100%;
+                   margin-left: 20px;
+                    background-position: center;
+                    height: 109vh;
+                    border-color: black 2px solid;
+                }
+                .ye h3{
+                    background-color: orange;
+                    width:240px;
+                    color: white;
+                    margin-left: 20px;
+                    margin-top: 20px;
+                    height: 55px;
+                    border-radius: 15px;
+                    text-align: center;
+                }
+                .we{
+                    background-color: white;
+                    width: 100%;
+                   margin-left: 20px;
+                    background-position: center;
+                    height: 109vh;
+                }
+                .we h3{
+                    background-color: orangered;
+                    width:240px;
+                    color: white;
+                    margin-left: 20px;
+                    margin-top: 20px;
+                    height: 55px;
+                    border-radius: 15px;
+                    text-align: center;
+                }
+                
